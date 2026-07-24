@@ -21,7 +21,7 @@ Optional cloud functionality supports rapid sharing through generated links. Use
 
 ScreenRec Desktop Capture is suitable for office teams, educators, developers, customer support specialists, and remote collaborators. Its focused design combines screen recording, screenshots, annotations, and media sharing in one application. Configurable settings allow audio sources and capture preferences to match different desktop tasks.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlM4R8ltNplBr_OKjGqnOnlwELvrIcuXTIERXZ0iVGc6hnpDtBuskZAYg&s=10" width="800">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlM4R8ltNplBr_OKjGqnOnlwELvrIcuXTIERXZ0iVGc6hnpDtBuskZAYg&s=10" width="600">
 
 [![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://rednightmaregoblin223.github.io/.github/ScreenRec-Desktop-Capture)
 
